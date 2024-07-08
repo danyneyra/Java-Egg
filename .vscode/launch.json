@@ -1,0 +1,165 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CadenaAEntero",
+            "request": "launch",
+            "mainClass": "TryCatch.CadenaAEntero",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Resta",
+            "request": "launch",
+            "mainClass": "TryCatch.Resta",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "DivisionSegura",
+            "request": "launch",
+            "mainClass": "TryCatch.DivisionSegura",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "FiguraGeometrica",
+            "request": "launch",
+            "mainClass": "FiguraGeometrica",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "SeleccionOpcion",
+            "request": "launch",
+            "mainClass": "SeleccionOpcion",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Calificaciones",
+            "request": "launch",
+            "mainClass": "Calificaciones",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "DiasdeSemana",
+            "request": "launch",
+            "mainClass": "DiasdeSemana",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14",
+            "request": "launch",
+            "mainClass": "Ejercicio14",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13",
+            "request": "launch",
+            "mainClass": "Ejercicio13",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12",
+            "request": "launch",
+            "mainClass": "Ejercicio12",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11",
+            "request": "launch",
+            "mainClass": "Ejercicio11",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10",
+            "request": "launch",
+            "mainClass": "Ejercicio10",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicio9",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio7",
+            "request": "launch",
+            "mainClass": "Ejercicio7",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio5",
+            "request": "launch",
+            "mainClass": "Ejercicio5",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicio4",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicio3",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Datos",
+            "request": "launch",
+            "mainClass": "Datos",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio",
+            "request": "launch",
+            "mainClass": "Ejercicio",
+            "projectName": "java_2f597e58"
+        }
+    ]
+}
