@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumeroAleatorio",
+            "request": "launch",
+            "mainClass": "Math.NumeroAleatorio",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "Redondeo",
+            "request": "launch",
+            "mainClass": "Math.Redondeo",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
+            "name": "ValorAbsoluto",
+            "request": "launch",
+            "mainClass": "Math.ValorAbsoluto",
+            "projectName": "java_2f597e58"
+        },
+        {
+            "type": "java",
             "name": "CadenaAEntero",
             "request": "launch",
             "mainClass": "TryCatch.CadenaAEntero",
